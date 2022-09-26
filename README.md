@@ -1,7 +1,7 @@
 
 # Hello World! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-I'm Ana Carolina! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30">
+I'm Ana Carolina Guimarães! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30">
 
 
 ## About me :butterfly:
@@ -57,4 +57,7 @@ I'm Ana Carolina! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/bl
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img align="left" title="CSS" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</a> <br/>
+</a> 
+<a href="https://robotframework.org/" target="_blank">
+  <img align="left" title="robot" alt="CSS" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_robotframework_icon_130193.png" />
+</a><br/>
