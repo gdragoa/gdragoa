@@ -26,8 +26,8 @@ I'm Ana Carolina Guimarães! <img src=https://github.com/TheDudeThatCode/TheDude
 <div align="center">
   
   <a href="https://github.com/gdragoa">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gdragoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdragoa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdragoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdragoa&layout=compact&langs_count=7&theme=dracula"/>
   <img align="right" alt="Ana-pic" height="120" style="border-radius:50px;" src="https://i.picasion.com/pic91/c52848a2816df0f9f48f39a4d0bc2f9c.gif">
 
 </div>
