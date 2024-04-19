@@ -13,7 +13,7 @@ I'm Ana Carolina Guimarães! <img src=https://github.com/TheDudeThatCode/TheDude
 
 :email: anagamaral@outlook.com
 
-:outbox_tray: 2023 Goals: participate in a big project! 
+:outbox_tray: 2024 Goals: participate in a big project! 
 
 
 ## Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="50">
