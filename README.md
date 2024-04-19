@@ -40,9 +40,6 @@ I'm Ana Carolina Guimarães! <img src=https://github.com/TheDudeThatCode/TheDude
 <a href="https://pt-br.reactjs.org" target="_blank">
  <img align="left" title="React and React Native" alt="React and React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next js" alt="Next js" width="30px" src="https://cdn.discordapp.com/attachments/709159866127614043/917818075875770418/Group_1.png" />
-</a>
 <a href="https://jestjs.io/pt-BR/" target="_blank">
   <img align="left" title="Jest" alt="Jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </a>
